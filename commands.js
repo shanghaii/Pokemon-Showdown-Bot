@@ -24,7 +24,7 @@ exports.commands = {
 		} else {
 			var text = '/pm ' + by + ', ';
 		}
-		text += '**Pokémon Showdown Bot** by: Quinella and TalkTakesTime';
+		text += '**OM Room Bot** by: Quinella and TalkTakesTime, with custom OM commands by unfixable';
 		this.say(con, room, text);
 	},
 	help: 'guide',
