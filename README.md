@@ -48,6 +48,7 @@ Credits:
  - TalkTakesTime (Development)
  - Quinella (Development)
  - Rival Nick (Guide)
+ - unfixable (Development of the OM version)
 
 License
 -------
